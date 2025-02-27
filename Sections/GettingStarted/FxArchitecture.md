@@ -17,7 +17,7 @@ JavaFX architecture comprises multiple components that work together to support 
 
 ---
 
-## **1. Scene Graph**
+## **Scene Graph**
 The **[Scene Graph](#scene-graph-definition)** is a hierarchical tree structure of visual elements in a JavaFX application.
 
 ### **Components:**
@@ -35,7 +35,7 @@ The **[Scene Graph](#scene-graph-definition)** is a hierarchical tree structure 
 
 ---
 
-## **2. Java Public APIs**
+## **Java Public APIs**
 JavaFX provides a set of **[Java Public APIs](#java-public-apis-definition)** for developing applications.
 
 ### **Key Features:**
@@ -46,7 +46,7 @@ JavaFX provides a set of **[Java Public APIs](#java-public-apis-definition)** fo
 
 ---
 
-## **3. Graphics System**
+## **Graphics System**
 The **[Graphics System](#graphics-system-definition)** handles rendering of both 2D & 3D scene graphs.
 
 ### **Key Components:**
@@ -55,7 +55,7 @@ The **[Graphics System](#graphics-system-definition)** handles rendering of both
 
 ---
 
-## **4. Glass Windowing Toolkit**
+## **Glass Windowing Toolkit**
 The **[Glass Windowing Toolkit](#glass-windowing-toolkit-definition)** manages native OS services such as windows, timers, and surfaces.
 
 ### **Event Queue Handling:**
@@ -69,7 +69,7 @@ The **[Glass Windowing Toolkit](#glass-windowing-toolkit-definition)** manages n
 
 ---
 
-## **5. Media & Images**
+## **Media & Images**
 The **[Media Engine](#media-engine-definition)** enables JavaFX applications to play visual and audio media.
 
 ### **Supported Formats:**
@@ -84,7 +84,7 @@ The **[Media Engine](#media-engine-definition)** enables JavaFX applications to 
 
 ---
 
-## **6. Web Component**
+## **Web Component**
 The **[Web Component](#web-component-definition)** provides a built-in Web viewer using WebKit.
 
 ### **Features:**
@@ -99,7 +99,7 @@ The **[Web Component](#web-component-definition)** provides a built-in Web viewe
 
 ---
 
-## **7. CSS Styling**
+## **CSS Styling**
 The **[CSS](#css-definition)** system allows JavaFX applications to apply styles dynamically.
 
 ### **Key Points:**
@@ -109,7 +109,7 @@ The **[CSS](#css-definition)** system allows JavaFX applications to apply styles
 
 ---
 
-## **8. UI Controls**
+## **UI Controls**
 The **[UI Controls](#ui-controls-definition)** in JavaFX are built using the scene graph.
 
 ### **Examples:**
@@ -123,7 +123,7 @@ The **[UI Controls](#ui-controls-definition)** in JavaFX are built using the sce
 
 ---
 
-## **9. Layout**
+## **Layout**
 The **[Layout System](#layout-definition)** provides various layout containers for arranging UI elements.
 
 ### **Common Layouts:**
@@ -137,7 +137,7 @@ The **[Layout System](#layout-definition)** provides various layout containers f
 
 ---
 
-## **10. 2D & 3D Transformations**
+## **2D & 3D Transformations**
 The **[Transformation System](#transformation-system-definition)** enables positioning and modifying UI elements.
 
 ### **Transformation Types:**
@@ -149,7 +149,7 @@ The **[Transformation System](#transformation-system-definition)** enables posit
 
 ---
 
-## **11. Visual Effects**
+## **Visual Effects**
 The **[Effects System](#effects-definition)** enhances JavaFX applications using real-time graphical effects.
 
 ### **Common Effects:**
